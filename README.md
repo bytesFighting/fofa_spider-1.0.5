@@ -53,9 +53,6 @@ demo
 ![](demo/demo2.png)
 ![](demo/demo3.png)
 
-如果你觉得好用，请给作者买杯咖啡
-
-![](demo/weixin.png)
 ----------------------------------------
 
 # fofa_spider-1.0.2
@@ -84,9 +81,7 @@ demo
 ![](demo/demo2.png)
 ![](demo/demo3.png)
 
-如果你觉得好用，请给作者买杯咖啡
 
-![](demo/weixin.png)
 
 
 
